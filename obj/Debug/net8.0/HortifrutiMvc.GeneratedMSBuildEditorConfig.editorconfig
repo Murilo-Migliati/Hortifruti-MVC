@@ -1,0 +1,215 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HortifrutiMvc
+build_property.RootNamespace = HortifrutiMvc
+build_property.ProjectDir = e:\Faculdade\4Semestre\Poo2\MVC\HortifrutiMvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\Faculdade\4Semestre\Poo2\MVC\HortifrutiMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/DadosPessoais/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NQZXNzb2Fpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/DadosPessoais/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NQZXNzb2Fpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/DadosPessoais/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NQZXNzb2Fpc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/DadosPessoais/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NQZXNzb2Fpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/DadosPessoais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NQZXNzb2Fpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Estoque/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Estoque/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Estoque/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Estoque/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Estoque/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Fornecedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Fornecedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Fornecedor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Fornecedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Fornecedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Funcionario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Funcionario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Funcionario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Funcionario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Funcionario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/ItensVenda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/ItensVenda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/ItensVenda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/ItensVenda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/ItensVenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Produto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Produto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Produto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Venda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Venda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Venda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Venda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Venda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Faculdade/4Semestre/Poo2/MVC/HortifrutiMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2wdd7hl2en
