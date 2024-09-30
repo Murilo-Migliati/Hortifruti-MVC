@@ -1,0 +1,115 @@
+/HortifrutiMvc
+    /Controllers
+    /Models
+        Cliente.cs
+        Fornecedor.cs
+        Funcionario.cs
+        ItemVenda.cs
+        Produto.cs
+        Estoque.cs
+        Venda.cs
+    /Repositories
+        IClienteRepository.cs
+        ClienteRepository.cs
+        IFornecedorRepository.cs
+        FornecedorRepository.cs
+        IFuncionarioRepository.cs
+        FuncionarioRepository.cs
+        IItemVendaRepository.cs
+        ItemVendaRepository.cs
+        IProdutoRepository.cs
+        ProdutoRepository.cs
+        IEstoqueRepository.cs
+        EstoqueRepository.cs
+        IVendaRepository.cs
+        VendaRepository.cs
+    /Services
+        ClienteService.cs
+        FornecedorService.cs
+        FuncionarioService.cs
+        ItemVendaService.cs
+        ProdutoService.cs
+        EstoqueService.cs
+        VendaService.cs
+    /Views
+        /Home
+            Index.cshtml
+            /Cliente
+                Index.cshtml
+                Create.cshtml
+                Edit.cshtml
+                Details.cshtml
+            /Fornecedor
+                Index.cshtml
+                Create.cshtml
+                Edit.cshtml
+                Details.cshtml
+            /Funcionario
+                Index.cshtml
+                Create.cshtml
+                Edit.cshtml
+                Details.cshtml
+        /Produto
+            Index.cshtml
+            Create.cshtml
+            AddStock.cshtml
+            Edit.cshtml
+            Details.cshtml
+        /Venda
+            Index.cshtml
+            Create.cshtml
+            Details.cshtml
+        /Estoque
+            Index.cshtml
+        /Loja
+            Index.cshtml
+            Carrinho.cshtml
+    /Data
+        HortifrutiMvcContext.cs
+    /wwwroot
+        /css
+        /js
+    /Views
+        /Shared
+            _Layout.cshtml
+            _ValidationScriptsPartial.cshtml
+        _ViewStart.cshtml
+    appsettings.json
+    Program.cs
+
+
+
+-- Tabela DadosPessoais
+-- Tabela Cliente
+-- Tabela Fornecedor
+-- Tabela Funcionario
+-- Tabela Produto
+-- Tabela Estoque
+-- Tabela Venda
+-- Tabela ItensVenda
+
+
+
+// Comandos de Scaffold personalizado
+
+
+
+
+
+
+
+// Cria models a partir do bd
+dotnet ef dbcontext scaffold "Data Source=./data/HortifrutiMvc.db" Microsoft.EntityFrameworkCore.Sqlite -o Models -f
+
+
+
+// Comandos de Scaffold genérico
+dotnet aspnet-codegenerator controller -name DadosPessoaisController -m DadosPessoais -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name ClienteController -m Cliente -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name FornecedorController -m Fornecedor -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name FuncionarioController -m Funcionario -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name ProdutoController -m Produto -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name EstoqueController -m Estoque -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name VendaController -m Venda -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+dotnet aspnet-codegenerator controller -name ItensVendaController -m ItensVenda -dc HortifrutiMvcContext --relativeFolderPath Controllers --useDefaultLayout
+
